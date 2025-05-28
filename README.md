@@ -27,6 +27,17 @@ Build a predictive model to understand factors that influence buying behavior
 ## Learning Outcome
 * How Data Scientists at British Airways apply analytical skills to make a tangible impact by providing recommendations, tools, and models that drive key business decisions
 * How using data and predictive models helps British Airways acquire customers before they embark on their holidays
+---
+## Skills Learned 
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00758F?style=for-the-badge&logo=databricks&logoColor=white)
+![Assumption Building](https://img.shields.io/badge/Assumption%20Building-FFC107?style=for-the-badge)
+![Airport Planning](https://img.shields.io/badge/Airport%20Planning-1E90FF?style=for-the-badge&logo=airplane&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=wechat&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-003B57?style=for-the-badge&logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-800080?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
