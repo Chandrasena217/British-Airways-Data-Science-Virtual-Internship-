@@ -55,8 +55,7 @@ Build a predictive model to understand factors that influence buying behavior
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C81?style=for-the-badge)
 ## Certificate 
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_SLYm3yxQzMAKfCMd7_1737083661121_completion_certificate.pdf
-
+![certificate](https://github.com/Chandrasena217/British-Airways-Data-Science-Virtual-Internship-/blob/main/British%20Airways%20Certificate.jpg)
 ## 🚀 About Me
 Hi! I'm a passionate student currently diving deep into Machine Learning and Data Science. I'm enrolled in a Data Science bootcamp where I'm building real-world projects to apply what I learn—from data wrangling and visualization to model building and evaluation.
 
@@ -67,8 +66,6 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • SQL • Deep Lea
 
 Email - Chandrasena217@gmail.com
 
-Certificate:
-[British Airways Certificate.jpg](https://github.com/Chandrasena217/British-Airways-Data-Science-Virtual-Internship-/blob/6f1fe3d948f2692af4da1cc469afeb83c294286f/British%20Airways%20Certificate.jpg)
 
 
 
