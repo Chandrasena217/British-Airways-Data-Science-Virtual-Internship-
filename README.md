@@ -1,5 +1,5 @@
 
-![Logo](![Logo](https://mediacentre.britishairways.com/contents/archives/216/86/images/thumb1280x1683_width/britishairways_216861253015751_thumb.jpg)
+![Logo](https://mediacentre.britishairways.com/contents/archives/216/86/images/thumb1280x1683_width/britishairways_216861253015751_thumb.jpg)
 
 
 # British Airways Data Science Virtual Internship
