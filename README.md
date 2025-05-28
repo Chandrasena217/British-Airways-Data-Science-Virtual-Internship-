@@ -54,4 +54,8 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • SQL • Deep Lea
 
 Email - Chandrasena217@gmail.com
 
+Certificate:
+British Airways Certificate.jpg
+
+
 
