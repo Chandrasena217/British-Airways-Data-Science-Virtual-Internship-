@@ -1,5 +1,5 @@
 
-![Logo](https://banner2.cleanpng.com/20181113/iai/kisspng-british-airways-logo-oneworld-united-kingdom-qanta-wrl-ll-qts-1713923070015.webp)
+![Logo]([https://banner2.cleanpng.com/20181113/iai/kisspng-british-airways-logo-oneworld-united-kingdom-qanta-wrl-ll-qts-1713923070015.webp](https://mediacentre.britishairways.com/image/details/115864))
 
 
 # British Airways Data Science Virtual Internship
