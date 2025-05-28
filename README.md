@@ -37,6 +37,8 @@ Build a predictive model to understand factors that influence buying behavior
 ![Data Science](https://img.shields.io/badge/Data%20Science-003B57?style=for-the-badge&logo=python&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-800080?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-F06292?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-00ACC1?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ## Technologies Used
