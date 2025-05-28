@@ -55,7 +55,7 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • SQL • Deep Lea
 Email - Chandrasena217@gmail.com
 
 Certificate:
-British Airways Certificate.jpg
+[British Airways Certificate.jpg](https://github.com/Chandrasena217/British-Airways-Data-Science-Virtual-Internship-/blob/6f1fe3d948f2692af4da1cc469afeb83c294286f/British%20Airways%20Certificate.jpg)
 
 
 
